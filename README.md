@@ -93,7 +93,7 @@ pip install -r requirements.txt
 ## 4️⃣ Create `.env`
 ```
 DB_USER=root
-DB_PASSWORD=12345
+DB_PASSWORD=
 DB_HOST=localhost
 DB_PORT=3306
 DB_NAME=laptop_data
